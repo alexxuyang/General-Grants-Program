@@ -106,6 +106,7 @@ In the below sections you can find a list of different layers of the Polkadot St
 | Enable specific use-cases | [Robonomics](https://github.com/airalab/substrate-node-robonomics)
 | Secret store |
 | Universal Naming Service |
+| Decentralized Exchange | [Substrate-Dex](https://github.com/alexxuyang/substrate-dex)
 | Licensing |
 
 ### :black_circle: Host
